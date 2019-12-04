@@ -8,15 +8,15 @@ Time Series Storage library is built on top of the EDB, it is optional.
   * B+Tree Key Value Index
   * Multiple Key Spaces (tables)
   * Secondary indexes
-*Values are editable
-*Transaction Support via WAL
-*File System Optional
-*Time Series Library
-*Concurrency Support (Multiple Readers + 1 Writer)
+  * Values are editable
+  * Transaction Support via WAL
+  * File System Optional
+  * Time Series Library
+  * Concurrency Support (Multiple Readers + 1 Writer)
 
-#Notes
-*Requires malloc 
-*Not SQL
+# Notes
+  * Requires malloc 
+  * Not SQL
 
 # Details
 ## Compile Notes
